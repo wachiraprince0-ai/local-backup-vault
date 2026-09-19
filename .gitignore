@@ -1,0 +1,4 @@
+# Ignore Microsoft Word files and temp lock files
+~$*.docx
+*.docx
+*.doc
